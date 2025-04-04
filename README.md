@@ -13,8 +13,16 @@
 1. Task 2 to perform sum of integers from 1 to 50
 
 # Factorial.py file ..
-1. Task 1 to define a program to callculate factorial of a number
+1. Task 1 to define a program to calculate factorial of a number
 
 # math_module.py file..
 1. Task 2 to use math module and perform some functions.
+
+# File_read.py
+1. The task reads the content of the file.
+
+# File_read_append.py
+1. The task write the inputs then appends additional input and read the content of whole file.
+   
+
 
