@@ -23,6 +23,12 @@
 
 # File_read_append.py
 1. The task write the inputs then appends additional input and read the content of whole file.
-   
+
+# Dictionary_task.py
+1. The task is used to display the key and values of data entered and get the overview how dictionary works
+
+# List_task.py
+1. The task is used to go through the concept of list slicing
+
 
 
